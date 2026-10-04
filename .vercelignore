@@ -1,0 +1,4 @@
+bun.lock
+firebase-blueprint.json
+firestore.rules
+.env.example
